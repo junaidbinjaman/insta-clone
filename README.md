@@ -27,5 +27,5 @@ You can add new posts and make like and comments on the existing posts.
 In order to get full the functionalities please login to the website with google authentication.
 
 Website URL: https://insta-clone-eta-five.vercel.app. 
-Developer: Junaid Jwolt
+Developer: Junaid Jwolt. 
 
